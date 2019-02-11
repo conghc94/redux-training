@@ -27,7 +27,6 @@ class TaskItem extends Component {
           <button
             type="button"
             className="btn btn-warning"
-            onClick={}
           >
             <span className="fa fa-pencil mr-5"></span>Edit
           </button>
